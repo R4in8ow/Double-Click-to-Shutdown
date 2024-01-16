@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Author=R4in8ow
+Type=Application
+Terminal=true
+Exec=shutdown -P 0
+Name=Shutdown system
+Comment=Shutdown system
+Icon=/home/r4in8ow/Pictures/shutdown.jpeg
