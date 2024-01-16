@@ -6,4 +6,4 @@ Terminal=true
 Exec=shutdown -P 0
 Name=Shutdown system
 Comment=Shutdown system
-Icon=/home/r4in8ow/Pictures/shutdown.jpeg
+Icon=/home/$USERS/Downloads/shutdown.jpeg
